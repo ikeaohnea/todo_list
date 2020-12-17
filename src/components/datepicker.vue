@@ -15,7 +15,7 @@
             {{ startingYear + (i - 1)}}
         </option>
     </select>
-    <button class="reset-button" @click="today">T</button>
+    <button class="reset-button" @click="today">Today</button>
 </div>
 </template>
 
